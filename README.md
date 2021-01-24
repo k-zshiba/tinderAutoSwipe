@@ -7,5 +7,5 @@
 
 2.右クリックで検証ツールを開く
 
-3.consoleに```tinderAutoSwipeBasedOnAge```内のコードをペーストして実行
+3.consoleに```tinderAutoSwipeBasedOnAge.js```内のコードをペーストして実行
 
