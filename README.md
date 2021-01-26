@@ -1,5 +1,4 @@
-# tinderAutoSwipeBasedOnAge
-
+# tinderAutoSwipe
 
 ## 使い方
 
@@ -7,5 +6,14 @@
 
 2.右クリックで検証ツールを開く
 
-3.consoleに```tinderAutoSwipeBasedOnAge.js```内のコードをペーストして実行
+3.consoleに```tinderAutoSwipeBasedOnAge.js```または```randomSwipe.js```内のコードをペーストして実行
 
+
+### ```tinderAutoSwipeBasedOnAge.js```
+
+設定した年齢に基づいてスワイプします。
+
+
+### ```randomSwipe.js```
+
+設定した確率でランダムにスワイプします。
