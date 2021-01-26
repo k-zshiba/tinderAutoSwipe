@@ -12,7 +12,7 @@ function getRandomInt() {
 }
 
 function likeOrNope() {
-  if (getRandomInt(like_ratio) <= like_ratio) {
+  if (getRandomInt() <= like_ratio) {
     like_button.click();
   }else {
     nope_button.click();
