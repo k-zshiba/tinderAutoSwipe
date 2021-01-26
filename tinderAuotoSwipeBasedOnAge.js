@@ -1,6 +1,8 @@
 const nope_button = document.getElementsByClassName("button")[1];
 const like_button = document.getElementsByClassName("button")[3];
 
+const time_interval_ms = 1000;
+
 const younger_age = 18;
 const older_age = 24;
 
@@ -13,4 +15,4 @@ function judgeAge() {
     nope_button.click();
   }
 }
-setInterval(judgeAge,1000);
+setInterval(judgeAge,time_interval_ms);
